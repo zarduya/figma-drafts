@@ -1,4 +1,4 @@
-import logo from 'figma:asset/e975df2d06c10203554d9efa84b808199e386946.png';
+import logo from 'src/asset/e975df2d06c10203554d9efa84b808199e386946.png';
 
 export function StudioFooter() {
   return (
